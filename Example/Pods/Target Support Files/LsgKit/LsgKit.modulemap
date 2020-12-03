@@ -1,0 +1,6 @@
+framework module LsgKit {
+  umbrella header "LsgKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LsgKit (0.1.0)
+
+DEPENDENCIES:
+  - LsgKit (from `../`)
+
+EXTERNAL SOURCES:
+  LsgKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LsgKit: c564b79bff77ab24013340b4b09511c4e5504f82
+
+PODFILE CHECKSUM: 65cffff87af7233c48c03a21aa0750c1bdc32b91
+
+COCOAPODS: 1.9.3
