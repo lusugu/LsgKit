@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'LsgKit/Classes/**/*'
   s.resource_bundles = {
-    'LusgKit' => ['LusgKit/Exclude/LusgKit.bundle']
+    'LsgKit' => ['LsgKit/Exclude/LsgKit.bundle']
   }
   # s.resource_bundles = {
   #   'LsgKit' => ['LsgKit/Assets/*.png']
